@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#D30F37</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorHome">#FFF3223A</color>
+    <color name="colorProfileBack">#FFD8D7D7</color>
+    <color name="colorNavBack">#D30F37</color>
+    <color name="colorDateBack">#DDC3697B</color>
+    <color name="colorWhite">#FFFFFF</color>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/shedule"
+        android:icon="@drawable/ic_shedule"
+        android:background="@color/colorNavBack"
+        app:cnb_iconColor="#FFFFFF"
+        app:cnb_textColor="#FFFFFF"
+        android:title="Schedule"/>
+    <item
+        android:id="@+id/reports"
+        android:icon="@drawable/ic_reports"
+        android:background="@color/colorNavBack"
+        app:cnb_iconColor="#FFFFFF"
+        app:cnb_textColor="#FFFFFF"
+        android:title="Reports"/>
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:background="@color/colorNavBack"
+        app:cnb_iconColor="#FFFFFF"
+        app:cnb_textColor="#FFFFFF"
+        android:title="Home"/>
+    <item
+        android:id="@+id/medicine"
+        android:icon="@drawable/ic_medicine"
+        android:background="@color/colorNavBack"
+        app:cnb_iconColor="#FFFFFF"
+        app:cnb_textColor="#FFFFFF"
+        android:title="Medicine"/>
+
+    <item
+        android:id="@+id/chat"
+        android:icon="@drawable/ic_noty"
+        android:background="@color/colorNavBack"
+        app:cnb_iconColor="#FFFFFF"
+        app:cnb_textColor="#FFFFFF"
+        android:title="Notifications"/>
+
+</menu>
